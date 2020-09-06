@@ -260,13 +260,12 @@ button:active {
 }
 
 .final-time {
-  font-size: 100px;
   margin: 0;
   color: var(--success);
 }
 
 .base-time {
-  margin-top: 100px;
+  margin-top: 50px;
   margin-bottom: 0;
 }
 
