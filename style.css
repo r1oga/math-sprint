@@ -5,8 +5,8 @@
 }
 
 :root {
-  --primary-color: dodgerblue;
-  --select-color: dodgerblue;
+  --primary-color: rgb(3, 177, 230);
+  --select-color: rgb(3, 177, 230);
   --success: rgb(15, 158, 2);
   --danger: rgb(214, 23, 23);
 }
@@ -33,6 +33,13 @@ footer {
   z-index: 3;
 }
 
+a {
+  color: rgb(3, 177, 230);
+}
+
+a:hover {
+  color: dodgerblue;
+}
 .game-container {
   border: 1px solid black;
   box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.5);
